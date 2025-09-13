@@ -1,52 +1,55 @@
-# Tic Tac Toe - React App
+# Tic Tac Toe - React App 🎮
 
-A modern **Tic Tac Toe** game built with **React** and **Tailwind CSS**.  
-Play X and O with a friend, detect winners, track draws, and restart the game.
+![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4.17-blue?logo=tailwind-css&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-green)
+
+A modern **Tic Tac Toe** game built with **React** and **Tailwind CSS**. Play X and O with a friend, detect winners, track draws, and restart the game with a sleek interface.
 
 ---
 
-## 🎮 Features
+## 🚀 Features
 
 - Responsive 3x3 grid
 - Player turns: X and O
 - Winner detection with highlighted winning cells
 - Draw detection
-- Restart button to play again
+- Restart button
 - Colored X (red) and O (blue)
-- Modern UI with Tailwind CSS
+- Modern, minimal UI with Tailwind CSS
 
 ---
 
+## 🎨 Screenshots / Demo
 
+
+
+---
 
 ## 🛠 Tech Stack
 
-- **React** - Frontend library for building UI  
-- **Tailwind CSS** - Utility-first CSS framework for styling  
-- **JavaScript** - Logic and interactivity  
+- **React** - Frontend library  
+- **Tailwind CSS** - Utility-first CSS framework  
+- **JavaScript** - Game logic and interactivity  
 
 ---
 
-## 🚀 Getting Started
+## ⚡ Installation
 
-### 1. Clone the repository
 ```bash
+# Clone repository
 git clone https://github.com/your-username/tic-tac-toe.git
 cd tic-tac-toe
-2. Install dependencies
-bash
-Copy code
-npm install
-3. Run the app
-bash
-Copy code
-npm run dev
-Or if using Create React App:
 
-bash
-Copy code
+# Install dependencies
+npm install
+
+# Run app (Vite)
+npm run dev
+
+# Or if using CRA
 npm start
-Open http://localhost:5173 or http://localhost:3000 to view the app.
+Open http://localhost:5173 or http://localhost:3000 in your browser.
 
 📝 How to Play
 Click on an empty cell to place your mark (X or O)
@@ -59,15 +62,6 @@ If all cells are filled and no winner, the game is a draw
 
 Click Restart Game to play again
 
-🎨 Styling
-Tailwind CSS is used for all styling
-
-Hover effects on cells
-
-Winner cells highlighted in green
-
-X is red, O is blue
-
 📂 Project Structure
 pgsql
 Copy code
@@ -78,14 +72,11 @@ tic-tac-toe/
 │  └─ index.css     # Tailwind CSS import
 ├─ package.json
 ├─ tailwind.config.js
-└─ README.md
+└─ LICENSE          # MIT License file
 🤝 Contribution
 Contributions, issues, and feature requests are welcome!
-Feel free to fork the repository and create pull requests.
+Feel free to fork and submit pull requests.
 
 📄 License
-This project is MIT Licensed.
-
-
-
+This project is licensed under the MIT License – see the License file for details.
 

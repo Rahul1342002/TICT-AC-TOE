@@ -86,18 +86,6 @@ Feel free to fork the repository and create pull requests.
 📄 License
 This project is MIT Licensed.
 
-yaml
-Copy code
-
----
-
-I can also create a **shorter “GitHub-ready” version with badges** (like React, Tailwind, license, GitHub stars) to make your repo look professional.  
-
-Do you want me to do that?
 
 
 
-
-
-
-Ask ChatGPT
